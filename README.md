@@ -49,7 +49,5 @@ streamlit run dashboard/dashboard.py
 ```
 
 
----
 
-📧 Questions or feedback? Feel free to reach out!
 
