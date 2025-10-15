@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analysis & Dashboard
+# 📊 E-commerce Revenue Drop Analysis & Dashboard
 
 ## 🎯 Project Goal
 This project aims to analyse e-commerce sales data to uncover valuable insights, such as top-selling products, revenue trends, and customer purchasing behaviour. Additionally, an **interactive Streamlit dashboard** is built to allow dynamic exploration of the dataset.
@@ -48,12 +48,8 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
-## 🌎 Live Dashboard
-🔗 **View the interactive dashboard:** [Streamlit Deployment Link](https://e-commerce-sales-analysis-ngbixjgsa3wcbm8rw3bgor.streamlit.app/)
-
-## 📝 License
-This project is provided for **viewing purposes only**. You **may not** modify, distribute, sublicense, or sell any part of this project. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 📧 Questions or feedback? Feel free to reach out!
+
